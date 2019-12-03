@@ -5,7 +5,7 @@ IPTV public streams repository
 
 ## Playlists by country
 
-##### You can use these links with VLC or any m3u player 
+##### You can use these links with VLC or any m3u player (IPTV Smarters Pro for example)
 
 <table>
 	<thead>
@@ -21,3 +21,7 @@ IPTV public streams repository
 ## Contribution
 
 Just make a pull request with the link of the public IPTV stream :) (The link must be public!)
+
+## Thanks to : 
+
+- TeamBlue65 for (almost) every Portuguese streams and logos.
