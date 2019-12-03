@@ -17,3 +17,7 @@ https://s6.tntendirect.com/w9/live/playlist.m3u8
 https://s1.tntendirect.com/gulli/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/RMCDECOUVERTE.png" group-title="FRANCE",RMC Découverte
 https://s7.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE2.png" group-title="FRANCE",France 2
+https://s4.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE3.png" group-title="FRANCE",France 3
+https://s4.tntendirect.com/france3/live/playlist.m3u8
