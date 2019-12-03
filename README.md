@@ -1,7 +1,7 @@
 # IPTV Public Streams 🎥
 IPTV public streams repository
 
-## Playlists by language
+## Playlists by country
 
 <table>
 	<thead>
