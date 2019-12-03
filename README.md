@@ -5,7 +5,7 @@ IPTV public streams repository
 
 ## Playlists by country
 
-##### You can use these links with VLC or any m3u player 
+##### You can use these links with VLC or any m3u player (IPTV Smarters Pro for example)
 
 <table>
 	<thead>
