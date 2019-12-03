@@ -23,3 +23,9 @@ https://s4.tntendirect.com/france2/live/playlist.m3u8
 https://s4.tntendirect.com/france3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE5.png" group-title="FRANCE",France 5
 https://s4.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/C8.png" group-title="FRANCE",C8
+https://s7.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/BFMTV.png" group-title="FRANCE",BFM TV
+https://s1.tntendirect.com/bmftv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE4.png" group-title="FRANCE",France 4
+https://s4.tntendirect.com/france4/live/playlist.m3u8
