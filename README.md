@@ -1,6 +1,8 @@
 # IPTV Public Streams 🎥
 IPTV public streams repository
 
+
+
 ## Playlists by country
 
 <table>
@@ -12,3 +14,8 @@ IPTV public streams repository
 		<tr><td align="left">Portugal</td><td align="left"><code>https://raw.githubusercontent.com/NoyTheBiche/PublicIPTV/master/portugal.m3u</code></td></tr>
 	</tbody>
 </table>
+
+
+## Contribution
+
+Just make a pull request with the link of the public IPTV stream :) (The link must be from an official source !)
