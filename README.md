@@ -5,6 +5,8 @@ IPTV public streams repository
 
 ## Playlists by country
 
+##### You can use these links with VLC or any m3u player 
+
 <table>
 	<thead>
 		<tr><th align="left">Language</th><th align="left">Playlist</th></tr>
