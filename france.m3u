@@ -29,3 +29,5 @@ https://s7.tntendirect.com/d8/live/playlist.m3u8
 https://s1.tntendirect.com/bmftv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE4.png" group-title="FRANCE",France 4
 https://s4.tntendirect.com/france4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/CSTAR.jpg" group-title="FRANCE",C STAR
+https://s6.tntendirect.com/d17/live/playlist.m3u8
