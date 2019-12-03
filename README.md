@@ -20,4 +20,4 @@ IPTV public streams repository
 
 ## Contribution
 
-Just make a pull request with the link of the public IPTV stream :) (The link must be from an official source !)
+Just make a pull request with the link of the public IPTV stream :) (The link must be public!)
