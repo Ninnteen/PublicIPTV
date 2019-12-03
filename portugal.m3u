@@ -51,3 +51,5 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TOROSTV.png" group-title="PORTUGAL",TOROS TV
+https://vsd8.mycdn.me/hls/679298599542.m3u8/sig/AFEO-KUEpVw/expires/1575467643123/srcIp/77.140.27.165/clientType/0/srcAg/GECKO/679298599542_high/index.m3u8 
