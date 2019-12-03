@@ -21,3 +21,5 @@ https://s7.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 https://s4.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE3.png" group-title="FRANCE",France 3
 https://s4.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE5.png" group-title="FRANCE",France 5
+https://s4.tntendirect.com/france5/live/playlist.m3u8
