@@ -76,3 +76,5 @@ http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TVIREALITY.png" group-title="",TVI Reality
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Porto Canal" tvg-name="Porto Canal" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/PORTOCANAL.png" group-title="",Porto Canal
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1768360862.m3u8
