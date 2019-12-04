@@ -24,4 +24,4 @@ Just make a pull request with the link of the public IPTV stream :) (The link mu
 
 ## Thanks to : 
 
-- TeamBlue65 for (almost) every logos.
+- TeamBlue65 for (almost) every logos and portuguese streams.
