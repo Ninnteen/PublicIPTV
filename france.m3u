@@ -11,25 +11,3 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/ARTE.png" group-title="FRANCE",ARTE
 https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/W9.png" group-title="FRANCE",W9
-https://s6.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/GULLI.png" group-title="FRANCE",Gulli
-https://s1.tntendirect.com/gulli/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/RMCDECOUVERTE.png" group-title="FRANCE",RMC Découverte
-https://s7.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE2.png" group-title="FRANCE",France 2
-https://s4.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE3.png" group-title="FRANCE",France 3
-https://s4.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE5.png" group-title="FRANCE",France 5
-https://s4.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/C8.png" group-title="FRANCE",C8
-https://s7.tntendirect.com/d8/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/BFMTV.png" group-title="FRANCE",BFM TV
-https://s1.tntendirect.com/bmftv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCE4.png" group-title="FRANCE",France 4
-https://s4.tntendirect.com/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/CSTAR.jpg" group-title="FRANCE",C STAR
-https://s6.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/FRANCEÔ.png" group-title="FRANCE",FRANCE Ô
-https://s4.tntendirect.com/franceo/live/playlist.m3u8
