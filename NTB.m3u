@@ -9,3 +9,5 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/master_4000000.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/LCI.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/ALSACE20.png" group-title="FRANCE",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
