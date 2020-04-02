@@ -11,3 +11,8 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/ALSACE20.png" group-title="FRANCE",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/BFMPARIS.jpg" group-title="FRANCE",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/LACHAINENORMANDE.jpg" group-title="FRANCE",La Chaîne Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+
