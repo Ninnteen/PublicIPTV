@@ -11,5 +11,3 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/ALSACE20.png" group-title="FRANCE",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",RMC Découverte (TEST)
-https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_KB@300868/master.m3u8?__nn__=5375862360001&hdnea=st=1585868400~exp=1585872000~acl=/i/*~hmac=61020644fd74a792e0273277686f88abd67594af12181dd350fc5bba7ccb3654
