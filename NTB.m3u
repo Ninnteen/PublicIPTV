@@ -17,3 +17,6 @@ http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
 http://51.15.3.161:8080/M6/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/GULLI.png" group-title="FRANCE",Gulli
 http://51.15.3.161:8080/Gulli/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TV7.png" group-title="FRANCE",TV7
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+
