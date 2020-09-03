@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TF1.png" group-title="FRANCE",TF1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/TF1.png" group-title="FRANCE",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_3000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TFX.png" group-title="FRANCE",TFX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/TFX.png" group-title="FRANCE",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/master_4000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TMC.png" group-title="FRANCE",TMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/TMC.png" group-title="FRANCE",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/master_4000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TF1SERIESFILMS.png" group-title="FRANCE",TF1 SERIES FILMS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/TF1SERIESFILMS.png" group-title="FRANCE",TF1 SERIES FILMS
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_4000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/LCI.png" group-title="FRANCE",LCI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/LCI.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/ALSACE20.png" group-title="FRANCE",Alsace 20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/ALSACE20.png" group-title="FRANCE",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/CSTAR.jpg" group-title="FRANCE",CSTAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/CSTAR.jpg" group-title="FRANCE",CSTAR
 http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/M6.png" group-title="FRANCE",M6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/M6.png" group-title="FRANCE",M6
 http://51.15.3.161:8080/M6/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/GULLI.png" group-title="FRANCE",Gulli
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/GULLI.png" group-title="FRANCE",Gulli
 http://51.15.3.161:8080/Gulli/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/LOGO/master/TV7.png" group-title="FRANCE",TV7 Colmar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NoyTheBiche/TVLOGOS/master/FR/TV7.png" group-title="FRANCE",TV7 Colmar
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 
